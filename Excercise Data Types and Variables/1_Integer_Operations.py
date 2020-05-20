@@ -1,0 +1,6 @@
+sum1 = int(input())
+sum2 = int(input())
+divide = int(input())
+multiply = int(input())
+division = int((sum1+sum2)/divide)
+print(f'{division*multiply}')
